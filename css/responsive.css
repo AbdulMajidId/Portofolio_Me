@@ -48,6 +48,10 @@
         font-size: 0.8rem;
     }
 
+    #hero .row{
+        padding-bottom: 75px;
+    }
+
 }
 
 @media screen and (max-width : 350px) {
