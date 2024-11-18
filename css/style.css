@@ -26,7 +26,6 @@ section h1{
 .nav-dark {
     background-color: var(--secondaryColor) !important;
     z-index: 10;
-    transition: 0.8s;
 }
 
 /* end navbar */
