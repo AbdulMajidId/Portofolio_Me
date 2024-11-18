@@ -54,4 +54,8 @@
     #portofolio .col-md-12 {
         flex-direction: column;
     }
+
+    #hero .row {
+        padding-bottom: 110px;
+    }
 }
